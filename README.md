@@ -43,8 +43,6 @@ Top U.S. cities and brands like Volvo contribute significantly to overall perfor
 •	Top automakers show consistent growth and revenue contribution
 
 5. Screenshot
-   Dashboard: https://github.com/the-gaurav-khandare/car_sales_analysis_dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png
-   (https://github.com/the-gaurav-khandare/car_sales_analysis_dashboard/blob/main/Snapshot%20of%20the%20Dashboard%202.png)
-
+   ![image alt](https://github.com/the-gaurav-khandare/car_sales_analysis_dashboard/blob/6ce11e7a0e268965275343c406b9914c677ce15a/Snapshot%20of%20the%20Dashboard%201.png)
 
 
