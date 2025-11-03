@@ -44,6 +44,7 @@ Top U.S. cities and brands like Volvo contribute significantly to overall perfor
 
 5. Screenshot
    Dashboard: (https://github.com/the-gaurav-khandare/car_sales_analysis_dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png)
+   (https://github.com/the-gaurav-khandare/car_sales_analysis_dashboard/blob/main/Snapshot%20of%20the%20Dashboard%202.png)
 
 
 
