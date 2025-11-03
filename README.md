@@ -42,3 +42,7 @@ Top U.S. cities and brands like Volvo contribute significantly to overall perfor
 •	Major sales clusters across key U.S. cities
 •	Top automakers show consistent growth and revenue contribution
 
+5. Screenshot
+
+
+
